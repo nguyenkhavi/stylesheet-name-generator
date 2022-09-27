@@ -20,9 +20,9 @@ Initial release of 0.0.1
 
 ### SSNG: Generate StyleSheet Name
 
-![alt text](./screenshots/before.jpg "Writing RN Component")
-![alt text](./screenshots/SSNG.jpg "Select command")
-![alt text](./screenshots/after.jpg "Generated successfully")
+![alt text](./screenshots/before.jpg "Writing RN Component")  
+![alt text](./screenshots/SSNG.jpg "Select command")  
+![alt text](./screenshots/after.jpg "Generated successfully")  
 
 
 
