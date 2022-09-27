@@ -1,9 +1,14 @@
 {
-  "name": "style-name-generator",
-  "displayName": "style-name-generator",
+  "name": "stylesheet-name-generator",
+  "displayName": "StyleSheet Name Generator",
   "publisher": "Kha-ViNguyen",
   "description": "An extension to generate Style Sheet name in React Native projects",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyenkhavi/stylesheet-name-generator"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -11,13 +16,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:style-name-generator.generateStyleSheetName"
+    "onCommand:stylesheet-name-generator.generateStyleSheetName"
   ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "style-name-generator.generateStyleSheetName",
+        "command": "stylesheet-name-generator.generateStyleSheetName",
         "title": "SSNG: Generate StyleSheet Name"
       }
     ]
