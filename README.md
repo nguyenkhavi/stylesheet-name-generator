@@ -6,7 +6,7 @@ Style Sheet name generate command
 
 ### 0.0.1
 
-Initial release of 0.0.1
+Initial release of [0.0.1](https://marketplace.visualstudio.com/items?itemName=Kha-ViNguyen.stylesheet-name-generator)
 
 ## Tutorial
 
